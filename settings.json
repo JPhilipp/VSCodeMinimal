@@ -154,7 +154,6 @@
         "activityBarBadge.background": "#fff",
         "activityBarBadge.foreground": "#bbb",
 
-        // Gutter indicators (left)
         "editorGutter.modifiedBackground": "#0000",
         "editorGutter.addedBackground": "#0000",
         "editorGutter.deletedBackground": "#0000",
@@ -162,10 +161,8 @@
     "files.autoSave": "off",
     "window.zoomLevel": 0,
 
-    // "scm.diffDecorations": "none",
-
     "editor.autoClosingBrackets": false,
-    "window.menuBarVisibility": "default",
+    "window.menuBarVisibility": "toggle",
     "workbench.iconTheme": null,
 
     "git.path": "C:\\Users\\philipp\\AppData\\Local\\GitHubDesktop\\app-2.2.0\\resources\\app\\git\\cmd",
@@ -179,4 +176,5 @@
     "workbench.activityBar.visible": true,
     "editor.renderWhitespace": "none",
     "editor.renderControlCharacters": false,
+
 }

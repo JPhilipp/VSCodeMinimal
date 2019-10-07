@@ -1,0 +1,182 @@
+{
+    "editor.fontFamily": "Doid, 'Times New Roman', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 20.01,
+    
+    "workbench.colorTheme": "Black on White",
+    
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.lineNumbers": "off",
+    "csharp.referencesCodeLens.enabled": false,
+    "workbench.statusBar.visible": false,
+    "editor.lightbulb.enabled": false,
+    "editor.renderIndentGuides": false,
+    "editor.glyphMargin": false,
+
+    "editor.tokenColorCustomizations":
+    {
+        "textMateRules":
+        [
+            {
+                "scope": [
+                    "punctuation.definition.comment",
+                    "string",
+                    "constant",
+                    "constant.character",
+                    "constant.character.escape",
+                    "constant.numeric",
+                    "constant.numeric.integer",
+                    "constant.numeric.float",
+                    "constant.numeric.hex",
+                    "constant.numeric.octal",
+                    "constant.other",
+                    "constant.regexp",
+                    "constant.rgb-value",
+                    "emphasis",
+                    "entity",
+                    "entity.name",
+                    "entity.name.class",
+                    "entity.name.function",
+                    "entity.name.method",
+                    "entity.name.section",
+                    "entity.name.selector",
+                    "entity.name.tag",
+                    "entity.name.type",
+                    "entity.other",
+                    "entity.other.attribute-name",
+                    "entity.other.inherited-class",
+                    "invalid",
+                    "invalid.deprecated",
+                    "invalid.illegal",
+                    "keyword",
+                    "keyword.control",
+                    "keyword.operator",
+                    "keyword.operator.new",
+                    "keyword.operator.assignment",
+                    "keyword.operator.arithmetic",
+                    "keyword.operator.logical",
+                    "keyword.other",
+                    "markup",
+                    "markup.bold",
+                    "markup.changed",
+                    "markup.deleted",
+                    "markup.heading",
+                    "markup.inline.raw",
+                    "markup.inserted",
+                    "markup.italic",
+                    "markup.list",
+                    "markup.list.numbered",
+                    "markup.list.unnumbered",
+                    "markup.other",
+                    "markup.quote",
+                    "markup.raw",
+                    "markup.underline",
+                    "markup.underline.link",
+                    "meta",
+                    "meta.block",
+                    "meta.cast",
+                    "meta.class",
+                    "meta.function",
+                    "meta.function-call",
+                    "meta.return-type",
+                    "meta.selector",
+                    "meta.tag",
+                    "meta.type.annotation",
+                    "meta.type",
+                    "punctuation.definition.string.begin",
+                    "punctuation.definition.string.end",
+                    "punctuation.separator",
+                    "punctuation.separator.continuation",
+                    "punctuation.terminator",
+                    "storage",
+                    "storage.modifier",
+                    "storage.type",
+                    "strong",
+                    "support",
+                    "support.class",
+                    "support.constant",
+                    "support.function",
+                    "support.other",
+                    "support.type",
+                    "support.type.property-name",
+                    "support.variable",
+                    "variable",
+                    "variable.language",
+                    "variable.name",
+                    "variable.other",
+                    "variable.other.readwrite",
+                    "variable.parameter"
+                ],
+                "settings": {
+                    "fontStyle": ""
+                }
+            },
+            {
+                "scope": [
+                    "string",
+                    "string.interpolated",
+                    "string.other",
+                    "string.quoted",
+                    "string.quoted.double",
+                    "string.quoted.other",
+                    "string.quoted.single",
+                    "string.quoted.triple",
+                    "string.regexp",
+                    "string.unquoted",
+
+                    "comment",
+                ],
+                "settings": {
+                    "fontStyle": "",
+                    "foreground": "#636363"
+                }
+            },
+            {
+                "scope": [
+                    "meta.preprocessor",
+                ],
+                "settings": {
+                    "fontStyle": "",
+                    "foreground": "#818181"
+                }
+            }
+        ]
+    },
+
+    "workbench.colorCustomizations": {
+        "[Black on White]": {
+            "editor.lineHighlightBackground": "#ffffff",
+            "editorError.foreground":   "#ff000000",
+        },
+
+        "activityBar.background": "#fff",
+        "activityBar.foreground": "#bbb",
+        "activityBarBadge.background": "#fff",
+        "activityBarBadge.foreground": "#bbb",
+
+        // Gutter indicators (left)
+        "editorGutter.modifiedBackground": "#0000",
+        "editorGutter.addedBackground": "#0000",
+        "editorGutter.deletedBackground": "#0000",
+    },
+    "files.autoSave": "off",
+    "window.zoomLevel": 0,
+
+    // "scm.diffDecorations": "none",
+
+    "editor.autoClosingBrackets": false,
+    "window.menuBarVisibility": "default",
+    "workbench.iconTheme": null,
+
+    "git.path": "C:\\Users\\philipp\\AppData\\Local\\GitHubDesktop\\app-2.2.0\\resources\\app\\git\\cmd",
+    "gitlens.currentLine.enabled": false,
+    "git.enableSmartCommit": true,
+    "files.exclude": {
+        "**/*.meta": true
+    },
+    "workbench.tree.indent": 30,
+    "editor.codeLens": false,
+    "workbench.activityBar.visible": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+}

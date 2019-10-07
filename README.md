@@ -1,5 +1,5 @@
 # VSCodeMinimal
- An extremely minimalistic, white on black, focus-oriented Settings.json for Visual Studio Code, with an optimized font adjusted from Droid Monospace (with easily visible emphasizes, and strongly separating otherwise easy-to-confuse character couples like "{" vs "(", or ";" vs ":").
+ An extremely minimalistic, white on black, focus-oriented Settings.json for Visual Studio Code, with an optimized font adjusted from Droid Monospace (with easily visible emphasized dots, and strongly separating otherwise easy-to-confuse character couples like "{" vs "(", "O" vs "0", or ";" vs ":").
 
 <img src="Screenshot.png">
 

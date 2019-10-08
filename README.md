@@ -3,4 +3,4 @@
 
 <img src="Screenshot.png">
 
-To install this, grab the Extension Theme "Black and White" which this overrides, then search the VS Code settings for settings.json and replace the file. Have fun!
+To install this, grab the Extension Theme "Black and White" which this overrides, then search the VS Code settings for settings.json and replace the file. Also, right-click the TTF font and click Install (you will need to restart VS Code for this to take effect). Have fun!

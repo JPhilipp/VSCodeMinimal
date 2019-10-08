@@ -177,4 +177,6 @@
     "editor.renderWhitespace": "none",
     "editor.renderControlCharacters": false,
 
+    "editor.folding": false,
+
 }

@@ -167,10 +167,9 @@
         "editorGutter.modifiedBackground": "#0000",
         "editorGutter.addedBackground": "#0000",
         "editorGutter.deletedBackground": "#0000",
-
-        "editorBracketMatch.border": "#0000",
-        "editorBracketMatch.background": "#0000",
     },
+
+    "editor.matchBrackets": false,
     "files.autoSave": "off",
 
     "editor.autoClosingBrackets": false,

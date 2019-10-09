@@ -189,5 +189,12 @@
     "editor.renderControlCharacters": false,
 
     "editor.folding": false,
-    "editor.fontLigatures": false
+    "editor.fontLigatures": false,
+
+    "editor.scrollBeyondLastLine": false,
+
+    "editor.selectionHighlight": false,
+    "editor.occurrencesHighlight": false,
+
+    "editor.hover.enabled": false,
 }

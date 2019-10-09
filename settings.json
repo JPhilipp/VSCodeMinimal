@@ -1,6 +1,6 @@
 {
     "editor.fontFamily": "Doid, 'Times New Roman', Consolas, 'Courier New', monospace",
-    "editor.fontSize": 20.01,
+    "editor.fontSize": 17.01,
     
     "workbench.colorTheme": "Black on White",
     
@@ -197,4 +197,5 @@
     "editor.occurrencesHighlight": false,
 
     "editor.hover.enabled": false,
+    "window.zoomLevel": 0.9,
 }

@@ -201,4 +201,5 @@
     "window.zoomLevel": 0.9,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
 }

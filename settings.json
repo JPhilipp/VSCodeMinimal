@@ -13,6 +13,9 @@
     "editor.renderIndentGuides": false,
     "editor.glyphMargin": false,
 
+    "editor.lineDecorationsWidth": 0,
+    "editor.lineNumbersMinChars": 0,
+
     "editor.tokenColorCustomizations":
     {
         "textMateRules":
@@ -171,9 +174,7 @@
 
     "editor.matchBrackets": false,
     "files.autoSave": "off",
-
-    "editor.autoClosingBrackets": false,
-    "window.menuBarVisibility": "toggle",
+    "window.menuBarVisibility": "default",
     "workbench.iconTheme": null,
 
     "git.path": "C:\\Users\\philipp\\AppData\\Local\\GitHubDesktop\\app-2.2.0\\resources\\app\\git\\cmd",
@@ -198,4 +199,6 @@
 
     "editor.hover.enabled": false,
     "window.zoomLevel": 0.9,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.autoClosingBrackets": "never",
 }

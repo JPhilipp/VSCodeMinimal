@@ -12,6 +12,7 @@
     "editor.lightbulb.enabled": false,
     "editor.renderIndentGuides": false,
     "editor.glyphMargin": false,
+    "css.colorDecorators.enable": false,
 
     "editor.lineDecorationsWidth": 0,
     "editor.lineNumbersMinChars": 0,

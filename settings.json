@@ -2,8 +2,6 @@
     "editor.fontFamily": "Doid, 'Times New Roman', Consolas, 'Courier New', monospace",
     "editor.fontSize": 17.01,
     
-    "workbench.colorTheme": "Black on White",
-    
     "breadcrumbs.enabled": false,
     "editor.minimap.enabled": false,
     "editor.lineNumbers": "off",
@@ -16,6 +14,7 @@
 
     "editor.lineDecorationsWidth": 0,
     "editor.lineNumbersMinChars": 0,
+
 
     "editor.tokenColorCustomizations":
     {
@@ -173,7 +172,7 @@
         "editorGutter.deletedBackground": "#0000",
     },
 
-    "editor.matchBrackets": false,
+    "editor.matchBrackets": "never",
     "files.autoSave": "off",
     "window.menuBarVisibility": "default",
     "workbench.iconTheme": null,
@@ -199,8 +198,18 @@
     "editor.occurrencesHighlight": false,
 
     "editor.hover.enabled": false,
-    "window.zoomLevel": 0.9,
+    "window.zoomLevel": 1,
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingQuotes": "never",
+    "workbench.colorTheme": "Black on White",
+    "dart.allowAnalytics": false,
+    "html.autoClosingTags": false,
+    "[html]": {
+        "editor.quickSuggestions": false
+    },
+
+    // "dart.closingLabels": true,
+    // "dart.previewFlutterUiGuides": false,
+
 }
